@@ -1,5 +1,5 @@
 // Empty Constructor wo constructor hota hai jis mein koi parameter nahi hota.
-// Jab object create hota hai to ye automatically automatically call ho jata hai.
+// Jab object create hota hai to ye automatically  call ho jata hai.
 //empty constructor ka har giz ya mtlbnhi k is ma code nhi hota
 //main concept yhi h k is ma parameters nhi hoty
 
