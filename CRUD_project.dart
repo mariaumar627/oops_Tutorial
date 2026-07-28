@@ -1,4 +1,4 @@
-//-------------------- ABSTRACT CLASS --------------------
+//-ABSTRACT CLASS -
 
 abstract class Student {
   String? name;
@@ -63,8 +63,6 @@ class StudentManager extends Student {
     print("----------------------------");
   }
 }
-
-//-------------------- MAIN FUNCTION --------------------
 
 void main() {
   StudentManager s1 = StudentManager("Maria Umar", 1, "BSCS");
